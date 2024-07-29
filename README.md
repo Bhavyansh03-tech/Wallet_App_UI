@@ -12,16 +12,16 @@ This repository contains the source code for a Wallet App UI developed using Jet
 - **Spending Graph:** Visual representation of spending using charts.
 
 ## Screenshots
-### Dark Mode :
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/554fb41e-1055-4682-b8dd-a1723d8af96a" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/e1fda97e-0644-402c-8e3d-080e1a7848b3" alt="Second Screenshot" style="width: 200px; height: auto;">
-</div>
-
 ### Light Mode :
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/bcdef33c-c767-487a-a13d-39f45a8f08cc" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
     <img src="https://github.com/user-attachments/assets/7ca0bacc-9235-46c3-ab50-c5438cf13afd" alt="Second Screenshot" style="width: 200px; height: auto;">
+</div>
+
+### Dark Mode :
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/554fb41e-1055-4682-b8dd-a1723d8af96a" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/e1fda97e-0644-402c-8e3d-080e1a7848b3" alt="Second Screenshot" style="width: 200px; height: auto;">
 </div>
 
 ## Getting Started
